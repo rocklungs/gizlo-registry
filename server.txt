@@ -1,1 +1,1 @@
-email-pad-widely-logan.trycloudflare.com
+api.gizlo.dev
